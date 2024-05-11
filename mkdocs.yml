@@ -1,0 +1,10 @@
+site_name: pytest-allure-id2history
+site_description: Overwrite allure history id with testcase full name and testcase id if testcase has id, exclude parameters.
+site_author: pytest-allure-id2history
+
+theme: readthedocs
+
+repo_url: https://github.com/Ryaningli/pytest-allure-id2history
+
+pages:
+- Home: index.md
