@@ -36,6 +36,7 @@ classifiers = [
 ]
 dependencies = [
     "pytest>=6.2.0",
+    "allure-pytest>=2.4.0"
 ]
 [project.urls]
 Repository = "https://github.com/Ryaningli/pytest-allure-id2history"
